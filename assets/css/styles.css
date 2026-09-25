@@ -1,2 +1,57 @@
-
+body {
+    background-color: #f5f5f5;
+    font-family: Montserrat, Arial, sans-serif;
+}
+ 
+.backgroundImage {
+    background-image: url(../img/juul-before.png);
+    width: 720px;
+    height: 512px;
+    margin: 64px auto;
+}
+ 
+.backgroundImage:hover {
+    background-image: url(../img/juul-after.png);
+    cursor: crosshair;
+}
+ 
+h1 {
+    color: black;
+    font-size: 48px;
+    text-align: center;
+}
+ 
+.text {
+    width: 50%;
+    margin: 96px auto;
+}
+ 
+.text * {
+    display: inline-block;
+    width: 48%;
+    margin: 0;
+    padding: 0;
+    vertical-align: middle;
+}
+ 
+h2 {
+    color: black;
+    font-size: 40px;
+    text-align: left;
+}
+ 
+h3 {
+    font-size: 16px;
+    text-align: right;
+}
+ 
+h3 a:link,
+h3 a:visited {
+    color: #62c4d1;
+    text-decoration: none;
+}
+ 
+h3 a:hover {
+    color: black;
+}
 /* css */

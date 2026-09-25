@@ -1,2 +1,4 @@
-
+console.log("ARTIST STATEMENT: JUUL sold itself as Smoking Evolved, a sleek gadget with pastel, candy-flavored pods that looked more like a tech product than a cigarette. My page keeps JUUL's colors, type, and layout so it reads as a real ad at first. When you hover over it, the pods turn into cigarette packs in the same colors, and the tagline changes to Smoking Rebranded. The point is that nothing actually evolved. JUUL's own marketing said one pod was about equal to a pack of cigarettes. The product changed shape, not what it does. My audience is college students, many of whom were in middle or high school during peak JUUL. This is critical design in Dunne and Raby's sense: instead of selling something, it asks a question. It also uses Paula Scher's idea of serious play by turning the brand's cute look against it.");
+ 
+console.log("SOURCES: 1. Prochaska, Vogel, and Benowitz (2021), Nicotine delivery and cigarette equivalents from vaping a JUULpod, Tobacco Control, https://pmc.ncbi.nlm.nih.gov/articles/PMC8460696/  2. Original JUUL Smoking Evolved ad (ADD LINK)  3. Cigarette pack image (ADD LINK)  4. Montserrat font from Google Fonts");
 /* javascript */
